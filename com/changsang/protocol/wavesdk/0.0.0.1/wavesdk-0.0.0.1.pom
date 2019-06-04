@@ -4,7 +4,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.changsang.protocol</groupId>
   <artifactId>wavesdk</artifactId>
-  <version>1.0.7.4-wave-1</version>
+  <version>0.0.0.1</version>
   <packaging>aar</packaging>
   <dependencies>
     <dependency>
