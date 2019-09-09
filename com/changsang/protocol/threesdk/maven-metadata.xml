@@ -3,7 +3,7 @@
   <groupId>com.changsang.protocol</groupId>
   <artifactId>threesdk</artifactId>
   <versioning>
-    <release>1.0.7.6t10</release>
+    <release>1.0.7.6</release>
     <versions>
       <version>1.0.1</version>
       <version>1.0.2</version>
@@ -17,8 +17,8 @@
       <version>1.0.7.3</version>
       <version>1.0.7.4</version>
       <version>1.0.7.5</version>
-      <version>1.0.7.6t10</version>
+      <version>1.0.7.6</version>
     </versions>
-    <lastUpdated>20190806090131</lastUpdated>
+    <lastUpdated>20190909014534</lastUpdated>
   </versioning>
 </metadata>
