@@ -3,7 +3,7 @@
   <groupId>com.changsang.protocol</groupId>
   <artifactId>zf1threesdk</artifactId>
   <versioning>
-    <release>1.0.19.17s</release>
+    <release>1.0.19.31sct02</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -54,7 +54,9 @@
       <version>1.0.19.15s</version>
       <version>1.0.19.16s</version>
       <version>1.0.19.17s</version>
+      <version>1.0.19.25s</version>
+      <version>1.0.19.31s</version>
     </versions>
-    <lastUpdated>20200102012244</lastUpdated>
+    <lastUpdated>20200319012221</lastUpdated>
   </versioning>
 </metadata>
